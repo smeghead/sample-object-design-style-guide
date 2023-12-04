@@ -1,0 +1,1 @@
+# sample-object-design-style-guide
